@@ -25,6 +25,6 @@
   "homepage": "https://github.com/akhilgupta1998/MEAN-Stack-With-Angular2#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.5.11"
+    "mongoose": "^5.7.5"
   }
 }
